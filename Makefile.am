@@ -76,6 +76,8 @@ libxkbcommon_la_SOURCES = \
 	src/state.c \
 	src/text.c \
 	src/text.h \
+	src/utf8.c \
+	src/utf8.h \
 	src/utils.c \
 	src/utils.h
 
